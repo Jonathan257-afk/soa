@@ -1,0 +1,77 @@
+.mantine-rrxw64 {
+	display: flex;
+	-webkit-box-pack: center;
+	justify-content: center;
+	position: absolute;
+	top: -25px;
+	left: 0px;
+	right: 0px;
+	margin-inline: auto;
+	font-size: 24px;
+	font-weight: 700;
+	max-width: fit-content;
+	background-color: #45d818;;
+	color: #ffffff;
+	padding: 10px 20px;
+	border-radius: 100px;
+	box-sizing: border-box;
+	word-break: break-word;
+}
+
+.mantine-1jci8zy {
+    margin-bottom: 64px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.mantine-1a3lk33 {
+    margin: -8px;
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    padding-top: 36px;
+}
+
+.mantine-ocm5r {
+    flex-shrink: 0;
+	max-width: 300px;
+}
+
+.mantine-gmnaht {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    gap: 5px;
+    font-weight: bold;
+    color: white;
+	font-size: 15px;
+}
+
+.mantine-1od7zmz {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 22px;
+    gap: 10px;
+}
+
+.mantine-kv9yl3 {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    gap: 8px;
+    padding: 16px;
+    width: 100%;
+}
